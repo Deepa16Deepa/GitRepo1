@@ -1,0 +1,7 @@
+print("HPE")
+print("welcome")
+print("To")
+print("GIT")
+print("2025")
+print("learn!!")
+print("Automation")
